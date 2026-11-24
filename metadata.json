@@ -1,0 +1,6 @@
+{
+  "name": "AI融入課程：Python 類別與物件學習工坊",
+  "description": "結合互動式 Python 類別與物件模擬沙盒、GitHub 版本控制實戰與 Netlify 雲端佈署指南的沉浸式程式學習網頁。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
